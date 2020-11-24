@@ -1,9 +1,11 @@
 # API_Node_Basica
 com MongoDB
+<h3>Header 3</h3>
 
+<blockquote>
+    <p>This is a blockquote.</p>
 
-<ul>
-<li><p>A list item.</p>
-<p>With multiple paragraphs.</p></li>
-<li><p>Another item in the list.</p></li>
-</ul>
+    <p>This is the second paragraph in the blockquote.</p>
+
+    <h2>This is an H2 in a blockquote</h2>
+</blockquote>
